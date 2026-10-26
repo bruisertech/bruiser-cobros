@@ -1,3 +1,3 @@
 referencia,periodo_mes,id_suscriptor,nombre,telefono,servicio,monto_bruto_cop,dia_cobro,bold_link_id,bold_url,whatsapp_enviado,fecha_envio_wa,estado_pago,metodo_pago,comision_bold_cop,monto_neto_cop,fecha_pago
 BRU-202610-SUB-001,2026-10,SUB-001,Carlos Andrés Gómez,573001234567,Plan bruiserCare Web + Hosting Administrado,45900,5,LNK_9J36CGZ87G,https://checkout.bold.co/payment/LNK_9J36CGZ87G,LISTO_PARA_1_TOQUE,2026-10-26 22:26:44,PENDIENTE,,0,0,
-BRU-202610-SUB-002,2026-10,SUB-002,Laura Sofía Martínez,573109876543,Espacio Google Drive (2 TB) + Suscripción Mensual,25000,15,LNK_2ACEUOXCNX,https://checkout.bold.co/payment/LNK_2ACEUOXCNX,LISTO_PARA_1_TOQUE,2026-10-26 22:26:29,PENDIENTE,,0,0,
+BRU-202610-SUB-002,2026-10,SUB-002,Laura Sofía Martínez,573109876543,Espacio Google Drive (2 TB) + Suscripción Mensual,25000,15,LNK_2ACEUOXCNX,https://checkout.bold.co/payment/LNK_2ACEUOXCNX,ENVIADO_DESDE_CELULAR,2026-10-26 22:29:20,PENDIENTE,,0,0,
