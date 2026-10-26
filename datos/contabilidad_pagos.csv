@@ -1,0 +1,2 @@
+referencia,periodo_mes,id_suscriptor,nombre,telefono,servicio,monto_bruto_cop,dia_cobro,bold_link_id,bold_url,whatsapp_enviado,fecha_envio_wa,estado_pago,metodo_pago,comision_bold_cop,monto_neto_cop,fecha_pago
+BRU-202610-SUB-001,2026-10,SUB-001,Carlos Andrés Gómez,573001234567,Plan bruiserCare Web + Hosting Administrado,45900,5,LNK_9J36CGZ87G,https://checkout.bold.co/payment/LNK_9J36CGZ87G,LISTO_PARA_1_TOQUE,2026-10-26 22:25:48,PENDIENTE,,0,0,
